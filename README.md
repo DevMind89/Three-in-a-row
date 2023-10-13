@@ -1,2 +1,2 @@
-# -Three-in-a-row
-Game three in a row in language C
+# -Tic-Tac-Toe
+Game Tic-Tac-Toe in C
